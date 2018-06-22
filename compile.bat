@@ -1,0 +1,1 @@
+solc -o ./bin GameBet.0.03.sol --bin --abi --metadata --overwrite
